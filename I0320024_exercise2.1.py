@@ -17,5 +17,5 @@ print(3.14)
 number = 12
 print(hex(number))
 
-Tipe data Complex
+#Tipe data Complex
 print(5j)
